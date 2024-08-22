@@ -27,3 +27,6 @@ Les spécifications du jeu sont dans `docs/specs/`, guide [ici](docs/specs/READM
 ## Gestion de projet
 
 Les informations sur la gestion du projet sont dans `docs/gdp/`.
+
+ ## Gameplay Image
+ ![image](https://github.com/user-attachments/assets/26c19489-e27e-4d9d-b0d6-ea0cfce51ce7)
