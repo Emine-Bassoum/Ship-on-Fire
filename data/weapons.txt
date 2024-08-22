@@ -1,0 +1,11 @@
+Canon_test
+
+caliber 20
+burst 3
+min_cooldown 5
+default_shell HE
+number_cannons 2
+size 1
+relative_shell_starting_point 20 30
+base_angle 0
+hitbox_shape 40 20
