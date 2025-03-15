@@ -16,6 +16,7 @@ make loop
 ### Commandes :
 - Boutons ou Q/D : réglage du transmetteur d'ordres
 - Bouton central ou F : entrer en mode visée
+- Bouton E : activer les piques
 - [En mode visée] souris : viser et tirer
 - Espace : changer la cible de la caméra
 - Échap : quitter
@@ -29,4 +30,5 @@ Les spécifications du jeu sont dans `docs/specs/`, guide [ici](docs/specs/READM
 Les informations sur la gestion du projet sont dans `docs/gdp/`.
 
  ## Gameplay Image
- ![image](https://github.com/user-attachments/assets/26c19489-e27e-4d9d-b0d6-ea0cfce51ce7)
+ 
+ ![Image](https://github.com/user-attachments/assets/a4698851-a357-4ab1-bd65-4b423958a928)
