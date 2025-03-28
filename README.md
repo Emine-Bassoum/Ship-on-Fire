@@ -4,6 +4,10 @@ Ce dépôt contient les fichiers relatifs au jeu Ship on Fire.
 
 Équipe : Mohamed Emine Bassoum, Lucas Bignolet, Clément Escude--Cotinat, Guillaume Hisleur
 
+## Trailer
+
+https://github.com/user-attachments/assets/43d87022-a13f-4e0e-8bb9-b116558a78ee
+
 ## Quickstart
 
 ```bash
